@@ -6,7 +6,7 @@ Sharp Stock Increase or Decrease (≥10%) – Signal to Buy or Sell?</b>
 </div>
 
 ---
-Pełna analiza: https://dnarynkow.pl/akcje-szaleja-o-10-w-jeden-dzien-lapac-spadajace-noze-czy-kupowac-akcje-zwyciezcow/
+Full analysis: https://dnarynkow.pl/akcje-szaleja-o-10-w-jeden-dzien-lapac-spadajace-noze-czy-kupowac-akcje-zwyciezcow/
 
 Youtube: https://www.youtube.com/watch?v=pBllH4fbhjU&t=66s
 
