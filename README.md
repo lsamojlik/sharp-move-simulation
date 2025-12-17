@@ -7,6 +7,10 @@ Skokowy wzrost lub spadek akcji (≥10%) - sygnał do kupna czy sprzedaży?</b>
 </div>
 
 ________________________________________
+Pełna analiza: https://dnarynkow.pl/akcje-szaleja-o-10-w-jeden-dzien-lapac-spadajace-noze-czy-kupowac-akcje-zwyciezcow/
+
+Youtube: https://www.youtube.com/watch?v=pBllH4fbhjU&t=66s
+
 Opis problemu:
 
 •	Celem badania jest porównanie dwóch strategii opartych o zakup akcji po cenie CLOSE z dnia w którym nastąpił WZROST lub SPADEK ceny akcji danej spółki z indeksu S&P 500 o min. 10%. Zbadano roczny, 3-letni i 5-letni horyzont inwestycyjny.
